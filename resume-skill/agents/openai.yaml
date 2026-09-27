@@ -1,0 +1,4 @@
+interface:
+  display_name: "resume skill"
+  short_description: "诊断简历内容、核实成果与项目口径，按目标岗位改写并导出清晰规范的简历"
+  default_prompt: "请使用 $resume-skill，根据我的现有简历和目标岗位诊断内容、精简经历，并按已确认的排版偏好输出简历。"
