@@ -1,0 +1,6 @@
+interface:
+  display_name: "P图修图"
+  short_description: "按照片类型匹配个人修图风格，保留真实质感并持续学习参考与反馈"
+  default_prompt: "使用 $photo-retouching，按我的个人偏好处理这些照片，自动匹配合适的后期风格。"
+policy:
+  allow_implicit_invocation: true
