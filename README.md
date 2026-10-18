@@ -1,1 +1,1 @@
-自己和codex对话，总结凝练的第一个skill！
+和codex工作中，总结凝练的个性化skills
