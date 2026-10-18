@@ -54,4 +54,4 @@ description: 按用户个人偏好处理实拍照片，按风景、人像、健�
 
 ## GitHub 同步
 
-用户已授权将本 Skill 同步到 NIALong-Chen/skills 仓库的 main 分支、photo-retouching/ 目录。每次完成本 Skill 或风格库的持久化更新后，在同一任务中尝试同步；需要同步时读取 [GitHub 同步约定](references/github-sync.md)。只读取或修照片但没有更新 Skill 文件时，不创建提交。同步失败应说明本地与远端的实际状态，不能声称已同步。
+仅在用户明确提醒“更新到 GitHub”“同步 Skill”等时，将本 Skill 同步到 NIALong-Chen/skills 仓库的 main 分支、photo-retouching/ 目录。普通修图、学习参考或本地风格库更新不自动触发上传，不设置定时检查、后台监控或无人值守提交。需要同步时读取 [GitHub 同步约定](references/github-sync.md)。同步失败应说明本地与远端的实际状态，不能声称已同步。
